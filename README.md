@@ -1,4 +1,4 @@
-**Automated scarecrow**
+#Automated scarecrow
 
 This python program is built with the aim to develop an automated scarecrow. 
 Currently, computer vision model is able to take an image as input, process the image and identity all the objects in the image with a certain confidence level. 
